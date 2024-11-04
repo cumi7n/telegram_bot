@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import (KeyboardButton, Message, ReplyKeyboardMarkup,
                            ReplyKeyboardRemove)
 
-BOT_TOKEN = '8119757037:AAEL2hYtDFA3HH_cv0L4_TVEHOT1PeNHbFw'
+BOT_TOKEN = '<TOKEN>'
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
